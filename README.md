@@ -1,4 +1,6 @@
-#Frontend
+# LUG Bootcamp Laravel Task
+
+### Frontend day(1~2)
 - register ✅
 - login ✅
 - home ✅
@@ -10,7 +12,7 @@
 - add to cart ✅
 - update cart ✅
 
-#Backend
+### Backend day(2~4)
 - Konfigurasi ✅
 - Authentication ✅
 - Product Admin ✅
